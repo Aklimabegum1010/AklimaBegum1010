@@ -71,15 +71,6 @@ I'm a Full Stack Developer from Bangladesh, passionate about building scalable, 
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=Aklimabegum1010&theme=dark&no-frame=true&no-bg=true&margin-w=8&column=6" width="98%"/>
-<br/>
-</div>
-
----
 
 ### 📊 GitHub Statistics
 
